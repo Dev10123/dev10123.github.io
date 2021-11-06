@@ -803,11 +803,11 @@ section {
 }
 .contact .info i {
   font-size: 20px;
-  color: #7cc576;
+  color: #fff;
   float: left;
   width: 44px;
   height: 44px;
-  background: #eaf6e9;
+  background: #7cc576;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -829,10 +829,6 @@ section {
 }
 .contact .info .email, .contact .info .phone {
   margin-top: 40px;
-}
-.contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #7cc576;
-  color: #fff;
 }
 .contact .php-email-form {
   width: 100%;
